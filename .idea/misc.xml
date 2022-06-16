@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable-v24/bg_img.xml" value="0.174" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable-v24/bgr_maintab.xml" value="0.184" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable-v24/bgr_timkiem.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable-v24/bgrappbar.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable-v24/btn_dang_xuat.xml" value="0.182" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable-v24/shape_bgr_button.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable/bgr_playlist.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable/bgr_playnhac.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable/custom_backgroud.xml" value="0.1885" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/drawable/dark.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/font/aclonica.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/font/aguafina_script.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/font/amaranth_bold.xml" value="0.25462962962962965" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/font/arimo_bold.xml" value="0.28072916666666664" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/font/molengo.xml" value="0.25462962962962965" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/activity_danh_sach_bai_hat.xml" value="0.2" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/activity_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/activity_insert_nhac_thu_vien.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/activity_insert_thu_vien_play_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/activity_play_nhac.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/activity_trang_chu.xml" value="0.11041666666666666" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/activity_trang_chu2.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/customdialog.xml" value="0.11041666666666666" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dialog_insert_thuvien_playlist.xml" value="0.11041666666666666" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_bangxephang.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_chude.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_danh_sach_bai_hat.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_nghesi.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_phobien.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_playlist.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_thinhhanh.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_thuvien_nghesi.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_thuvien_playlist.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_tim_kiem.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_tim_kiem_nhac_thuvien.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/dong_yeuthich.xml" value="0.23369565217391305" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment__trang__chu.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment__trang__chu_fragment.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_bangxephang.xml" value="0.12454710144927536" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_chude.xml" value="0.12454710144927536" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_dianhac.xml" value="0.25416666666666665" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_insert_nhac_thu_vien.xml" value="0.176" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_nghesi.xml" value="0.2296195652173913" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_phobien.xml" value="0.12454710144927536" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_playlist.xml" value="0.11499493414387031" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_profile.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_thinhhanh.xml" value="0.2296195652173913" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_thoat.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_thu_vien.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_thuvien_nghesi.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_thuvien_playlist.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_thuvien_yeuthich.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_tim_kiem.xml" value="0.2528301886792453" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/layout/fragment_trang_chu.xml" value="0.17674418604651163" />
+        <entry key="..\:/Workspace/Android/AppMusic11/app/src/main/res/menu/menu_timkiem.xml" value="0.11041666666666666" />
+        <entry key="..\:/Workspace/Android/Tren Lop/DesignPattern/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/Tren Lop/DesignPattern/app/src/main/res/layout/activity_trang_chu.xml" value="0.25052083333333336" />
+        <entry key="..\:/Workspace/Android/Tren Lop/DesignPattern/app/src/main/res/layout/fragment_trang_chu.xml" value="0.25052083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

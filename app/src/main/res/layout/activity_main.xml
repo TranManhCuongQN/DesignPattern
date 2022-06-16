@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.MainActivity"
+    android:background="#000000">
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/logomain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/txtApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hàng triệu bài hát "
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        android:fontFamily="@font/arimo_bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="-400dp"/>
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/txtApp1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Miễn phí trên My Music "
+        android:fontFamily="@font/arimo_bold"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="-300dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
